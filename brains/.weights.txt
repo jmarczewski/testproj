@@ -7,7 +7,7 @@ line
 comment test 
 */
 https://github.com/jmarczewski/testproj/raw/refs/heads/main/LICENSE license
-
+# remove this comment
 https://github.com/jmarczewski/testproj/raw/refs/heads/brains/plato/weights/PLATO6K_yolox_t.xml brains/plato/weights
 https://github.com/jmarczewski/testproj/raw/refs/heads/brains/plato/weights/PLATO6K_yolox_t.bin brains/plato/weights
 
