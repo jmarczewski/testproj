@@ -19,7 +19,7 @@
 
 
 [__metadata__]
-edited = "2025-01-09T13:09:14.899606"
+edited = "2025-01-09T16:06:20.676336"
 
 
 [[model]]
@@ -32,7 +32,7 @@ files = [ "PLATO6K_yolox_t.bin", "PLATO6K_yolox_t.xml",]
 urls = [ "https://github.com/jmarczewski/testproj/raw/refs/heads/main/brains",]
 desciption = "default on install"
 hashes = [ "2e685070853583050443c79e3a9d0135", "d032b3948efb62ad1df9d611004ba6d8",]
-sizes = [ "9.6Mi B", "347.1Ki B",]
+sizes = [ "9.6 MiB", "347.1 KiB",]
 
 [[model]]
 type = "PLATO"
@@ -44,7 +44,7 @@ files = [ "PLATO6K_yolox_s.bin", "PLATO6K_yolox_s.xml",]
 urls = [ "https://github.com/jmarczewski/testproj/raw/refs/heads/main/brains",]
 desciption = ""
 hashes = [ "49c4f2145ffb9cc9b6b7ac77246572e0", "b64fd576e97b5da24d54f03bc3cf51a7",]
-sizes = [ "17.0Mi B", "347.4Ki B",]
+sizes = [ "17.0 MiB", "347.4 KiB",]
 
 [[model]]
 type = "SIMBA"
@@ -56,7 +56,7 @@ files = [ "SL1_simba_n.bin", "SL1_simba_n.xml",]
 urls = [ "https://github.com/jmarczewski/testproj/raw/refs/heads/main/brains",]
 desciption = ""
 hashes = [ "3c70a9272b1e0d5803a5a92d1c3c400f", "b8b120f38b545bbbfd4140fb98b7cb21",]
-sizes = [ "1.7Mi B", "458.0Ki B",]
+sizes = [ "1.7 MiB", "458.0 KiB",]
 
 [[model]]
 type = "SIMBA"
@@ -68,7 +68,7 @@ files = [ "SL1_simba_t.bin", "SL1_simba_t.xml",]
 urls = [ "https://github.com/jmarczewski/testproj/raw/refs/heads/main/brains",]
 desciption = ""
 hashes = [ "df6fdbdedc660d89c18e4b28a9f6a023", "2ae6c61416e92237344c423c1b2485ad",]
-sizes = [ "9.6Mi B", "346.6Ki B",]
+sizes = [ "9.6 MiB", "346.6 KiB",]
 
 [[model]]
 type = "SIMBA"
@@ -80,7 +80,7 @@ files = [ "SL1_simba_s.bin", "SL1_simba_s.xml",]
 urls = [ "https://github.com/jmarczewski/testproj/raw/refs/heads/main/brains",]
 desciption = ""
 hashes = [ "1c013432fb33463c4b6c604fde34e38f", "52b1a2a8d37f6c366ce679e0798ed81a",]
-sizes = [ "17.0Mi B", "346.9Ki B",]
+sizes = [ "17.0 MiB", "346.9 KiB",]
 
 [[model]]
 type = "JOHNY"
@@ -91,8 +91,8 @@ name = "J0_1"
 files = [ "SR1-9939_dynamic.bin", "SR1-9939_dynamic.xml",]
 urls = [ "https://github.com/jmarczewski/testproj/raw/refs/heads/main/brains",]
 desciption = ""
-hashes = [ "22e91e588f12bd7a4c0cff007307ed5e", "d1762e7971402cd03a40e9eb5ac426d6",]
-sizes = [ "21.3Mi B", "90.2Ki B",]
+hashes = [ "22e91e588f55b99a4c0cff007307ed5e", "d1762e7971402cd03a40e9eb5ac426d6",]
+sizes = [ "21.3 MiB", "90.2 KiB",]
 
 [[model]]
 type = "ENDEIS"
@@ -104,7 +104,7 @@ files = [ "SE1-9670.bin", "SE1-9670.xml",]
 urls = [ "https://github.com/jmarczewski/testproj/raw/refs/heads/main/brains",]
 desciption = ""
 hashes = [ "8d283894e19c28b9860b32de371e8ba2", "8268f6e94433d2251c88e4e7d529ecf8",]
-sizes = [ "21.5Mi B", "83.1Ki B",]
+sizes = [ "21.5 MiB", "83.1 KiB",]
 
 [[model]]
 type = "MEILI"
@@ -116,5 +116,5 @@ files = [ "EXT2_yolox_t_b4.bin", "EXT2_yolox_t_b4.xml",]
 urls = [ "https://github.com/jmarczewski/testproj/raw/refs/heads/main/brains",]
 desciption = ""
 hashes = [ "5cc66e2466e8e82c32ece33d8aed74e7", "157885ff84bfb0bfa91eb7c68c1d571a",]
-sizes = [ "9.6Mi B", "346.2Ki B",]
+sizes = [ "9.6 MiB", "346.2 KiB",]
 
