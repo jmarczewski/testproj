@@ -8,12 +8,11 @@ comment test
 */
 https://github.com/jmarczewski/testproj/raw/refs/heads/main/LICENSE license
 
-https://github.com/jmarczewski/testproj/raw/refs/heads/brains/plato/weights/PLATO6K_yolox_t.xml brains/plato/weights
-https://github.com/jmarczewski/testproj/raw/refs/heads/brains/plato/weights/PLATO6K_yolox_t.bin brains/plato/weights
+https://github.com/jmarczewski/testproj/raw/refs/heads/main/brains/plato/weights/PLATO6K_yolox_t.xml brains/plato/weights
+https://github.com/jmarczewski/testproj/raw/refs/heads/main/brains/plato/weights/PLATO6K_yolox_t.bin brains/plato/weights
 
-https://github.com/jmarczewski/testproj/raw/refs/heads/brains/plato/weights/PLATO6K_yolox_s.xml brains/plato/weights
-https://github.com/jmarczewski/testproj/raw/refs/heads/brains/plato/weights/PLATO6K_yolox_s.bin brains/plato/weights
+https://github.com/jmarczewski/testproj/raw/refs/heads/main/brains/plato/weights/PLATO6K_yolox_s.xml brains/plato/weights
+https://github.com/jmarczewski/testproj/raw/refs/heads/main/brains/plato/weights/PLATO6K_yolox_s.bin brains/plato/weights
 
-https://github.com/jmarczewski/testproj/raw/refs/heads/brains/johny/weights/SR1-9939_dynamic.xml brains/johny/weights
-https://github.com/jmarczewski/testproj/raw/refs/heads/brains/johny/weights/SR1-9939_dynamic.bin brains/johny/weights
-
+https://github.com/jmarczewski/testproj/raw/refs/heads/main/brains/johny/weights/SR1-9939_dynamic.xml brains/johny/weights
+https://github.com/jmarczewski/testproj/raw/refs/heads/main/brains/johny/weights/SR1-9939_dynamic.bin brains/johny/weights
