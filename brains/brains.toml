@@ -1,0 +1,120 @@
+########################################################################################################################
+#                                                                                                                      #
+#                               SoM LPR Neural Networks                                                                #
+#                        Society of Mind License Plate Recognition                                                     #
+#                                                                                                                      #
+#       List of available neural network weights & biases files ( let's call them brains )                             #
+#                                                                                                                      #
+#        * brains with the tag 'default' will be updated/downloaded always                                             #
+#                                                                                                                      #
+#        * if you want to try new models or models specific to your country and have them be                           #
+#          automatically downloaded/updated, add them to the 'config.toml' file                                        #
+#          ( see docs for details or just duplicate and modify a [[model]] entry in 'config.toml' )                    #
+#                                                                                                                      #
+#                                                                                                                      #
+#        License: MIT ( https://opensource.org/licenses/MIT )                                                          #
+#                                                                                                                      #
+#                                                                                                                      #
+########################################################################################################################
+
+
+[__metadata__]
+edited = "2025-01-09T13:09:14.899606"
+
+
+[[model]]
+type = "PLATO"
+tags = [ "default", "plates", "tiny",]
+countries = [ "*",]
+name = "P0_tiny"
+path = "plato/weights"
+files = [ "PLATO6K_yolox_t.bin", "PLATO6K_yolox_t.xml",]
+urls = [ "https://github.com/jmarczewski/testproj/raw/refs/heads/main/brains",]
+desciption = "default on install"
+hashes = [ "2e685070853583050443c79e3a9d0135", "d032b3948efb62ad1df9d611004ba6d8",]
+sizes = [ "9.6Mi B", "347.1Ki B",]
+
+[[model]]
+type = "PLATO"
+tags = [ "default", "plates", "small",]
+countries = [ "*",]
+name = "P0_small"
+path = "plato/weights"
+files = [ "PLATO6K_yolox_s.bin", "PLATO6K_yolox_s.xml",]
+urls = [ "https://github.com/jmarczewski/testproj/raw/refs/heads/main/brains",]
+desciption = ""
+hashes = [ "49c4f2145ffb9cc9b6b7ac77246572e0", "b64fd576e97b5da24d54f03bc3cf51a7",]
+sizes = [ "17.0Mi B", "347.4Ki B",]
+
+[[model]]
+type = "SIMBA"
+tags = [ "default", "symbols", "nano",]
+countries = [ "*",]
+name = "S0_nano"
+path = "simba/weights/"
+files = [ "SL1_simba_n.bin", "SL1_simba_n.xml",]
+urls = [ "https://github.com/jmarczewski/testproj/raw/refs/heads/main/brains",]
+desciption = ""
+hashes = [ "3c70a9272b1e0d5803a5a92d1c3c400f", "b8b120f38b545bbbfd4140fb98b7cb21",]
+sizes = [ "1.7Mi B", "458.0Ki B",]
+
+[[model]]
+type = "SIMBA"
+tags = [ "default", "symbols", "tiny",]
+countries = [ "*",]
+name = "S0_tiny"
+path = "simba/weights/"
+files = [ "SL1_simba_t.bin", "SL1_simba_t.xml",]
+urls = [ "https://github.com/jmarczewski/testproj/raw/refs/heads/main/brains",]
+desciption = ""
+hashes = [ "df6fdbdedc660d89c18e4b28a9f6a023", "2ae6c61416e92237344c423c1b2485ad",]
+sizes = [ "9.6Mi B", "346.6Ki B",]
+
+[[model]]
+type = "SIMBA"
+tags = [ "default", "symbols", "small",]
+countries = [ "*",]
+name = "S0_small"
+path = "simba/weights/"
+files = [ "SL1_simba_s.bin", "SL1_simba_s.xml",]
+urls = [ "https://github.com/jmarczewski/testproj/raw/refs/heads/main/brains",]
+desciption = ""
+hashes = [ "1c013432fb33463c4b6c604fde34e38f", "52b1a2a8d37f6c366ce679e0798ed81a",]
+sizes = [ "17.0Mi B", "346.9Ki B",]
+
+[[model]]
+type = "JOHNY"
+tags = [ "default", "ocr-latin",]
+countries = [ "*",]
+path = "johny/weights/"
+name = "J0_1"
+files = [ "SR1-9939_dynamic.bin", "SR1-9939_dynamic.xml",]
+urls = [ "https://github.com/jmarczewski/testproj/raw/refs/heads/main/brains",]
+desciption = ""
+hashes = [ "22e91e588f12bd7a4c0cff007307ed5e", "d1762e7971402cd03a40e9eb5ac426d6",]
+sizes = [ "21.3Mi B", "90.2Ki B",]
+
+[[model]]
+type = "ENDEIS"
+tags = [ "default", "emblems", "classify",]
+countries = [ "*",]
+name = "E0_1"
+path = "endeis/weights/"
+files = [ "SE1-9670.bin", "SE1-9670.xml",]
+urls = [ "https://github.com/jmarczewski/testproj/raw/refs/heads/main/brains",]
+desciption = ""
+hashes = [ "8d283894e19c28b9860b32de371e8ba2", "8268f6e94433d2251c88e4e7d529ecf8",]
+sizes = [ "21.5Mi B", "83.1Ki B",]
+
+[[model]]
+type = "MEILI"
+tags = [ "default", "emblems", "detect",]
+countries = [ "*",]
+name = "M0_1"
+path = "meili/weights/"
+files = [ "EXT2_yolox_t_b4.bin", "EXT2_yolox_t_b4.xml",]
+urls = [ "https://github.com/jmarczewski/testproj/raw/refs/heads/main/brains",]
+desciption = ""
+hashes = [ "5cc66e2466e8e82c32ece33d8aed74e7", "157885ff84bfb0bfa91eb7c68c1d571a",]
+sizes = [ "9.6Mi B", "346.2Ki B",]
+
